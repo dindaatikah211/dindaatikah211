@@ -28,5 +28,5 @@ Committed to collaboration and personal growth, I strive to contribute meaningfu
 ---
 
 ### 📬 Let's Connect!
-- 🌐 Portfolio: [Coming Soon!]
+- 🌐 Portfolio: [https://dindaatikah211.github.io/Portfolio-Dinda/]
 - 📧 Email: [dindaatikahh@gmail.com]
