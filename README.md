@@ -23,11 +23,6 @@ Committed to collaboration and personal growth, I strive to contribute meaningfu
 
 ---
 
-### 📈 GitHub Stats
-![Dinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dindaatikah211&show_icons=true&theme=radical)
-
----
-
 ### 🐱 Just for Fun
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
