@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Dinda Atikah!
 
-🎨 *Creative Tech Enthusiast* | 🌐 *Front-End & UI/UX Explorer* | 🎮 *Game & IoT Hobbyist*
+🎨 *Creative Tech Enthusiast* | 🌐 *Front-End & UI/UX Explorer* 
 
 ---
 
-A highly motivated and detail-oriented individual with a strong passion for continuous learning. I am particularly interested in **Front-End Development**, **UI/UX Design**, and **Graphic Design**, combining technical and creative skills to deliver high-quality results. I have been studying these fields for about two years.  
-Although I enjoy working in design and art-related areas, I’m also interested in exploring the worlds of **IoT** and **Game Development**.  
-Committed to collaboration and personal growth, I strive to contribute meaningfully to every project.
+A highly motivated and detail-oriented individual with a strong passion for continuous learning. I am particularly interested in Front-End Development, UI/UX Design, 
+and Graphic Design, combining technical and creative skills to deliver high-quality results. I have been studying these fields for about two years. Committed to 
+collaboration and personal growth, I strive to contribute meaningfully to every project.
 
 ---
 
