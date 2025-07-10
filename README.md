@@ -1,16 +1,15 @@
 # Hi there 👋 I'm Dinda Atikah!
 
-🎨 *Creative Tech Enthusiast* | 🌐 *Front-End & UI/UX Explorer* 
+🎨 *Creative Tech Enthusiast* | 🌐 *Front-End & UI/UX Explorer* | 💡 *IoT & AR Developer*
 
 ---
 
-A highly motivated and detail-oriented individual with a strong passion for continuous learning. I am particularly interested in Front-End Development, UI/UX Design, 
-and Graphic Design, combining technical and creative skills to deliver high-quality results. I have been studying these fields for about two years. Committed to 
-collaboration and personal growth, I strive to contribute meaningfully to every project.
+A highly motivated and detail-oriented individual with a strong passion for continuous learning. I am particularly interested in **Front-End Development**, **UI/UX Design**, **Graphic Design**, and **IoT-based Applications**, combining technical and creative skills to deliver high-quality results. I have been studying these fields for about two years. Committed to collaboration and personal growth, I strive to contribute meaningfully to every project.
 
 ---
 
 ### ✨ Tech & Tools I Use
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-00B388?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,14 +18,37 @@ collaboration and personal growth, I strive to contribute meaningfully to every 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-003C71?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dindaatikah211&show_icons=true&theme=radical" alt="Dinda's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dindaatikah211&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🐱 Just for Fun
+
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+_"Life is better with a cup of coffee and a line of clean code."_ ☕💻
 
 ---
 
 ### 📬 Let's Connect!
-- 🌐 Portfolio: [https://dindaatikah211.github.io/Portfolio-Dinda/]
-- 📧 Email: [dindaatikahh@gmail.com]
+
+- 🌐 **Portfolio:** [https://dindaatikah211.github.io/Portfolio-Dinda/](https://dindaatikah211.github.io/Portfolio-Dinda/)
+- 📧 **Email:** dindaatikahh@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/dinda-atikah-ghaisani-b9918a243/]
+
+---
+
+### 📝 Quote of The Day
+
+> “The best way to predict the future is to create it.” – Abraham Lincoln
+
+---
