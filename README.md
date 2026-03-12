@@ -47,6 +47,7 @@ I have been actively studying and building in these fields for about **two years
 ## Let's Connect!
 
 | | |
+|---|---|
 | **Portfolio** | [dindaatikah211.github.io/Portfolio-Dinda](https://dindaatikah211.github.io/Portfolio-Dinda/) |
 | **Email** | dindaatikahh@gmail.com |
 | **LinkedIn** | [Dinda Atikah Ghaisani](https://www.linkedin.com/in/dinda-atikah-ghaisani-b9918a243/) |
