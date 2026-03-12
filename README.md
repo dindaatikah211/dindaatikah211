@@ -1,7 +1,5 @@
 # Hi there, I'm Dinda Atikah! 👋
 
-> *"The best way to predict the future is to create it."* — Abraham Lincoln
-
 **Creative Tech Enthusiast** · **Front-End Developer** · **UI/UX Designer**
 
 ---
@@ -59,5 +57,3 @@ I have been actively studying and building in these fields for about **two years
 ## Just for Fun
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-*"Life is better with a cup of coffee and a line of clean code."* 
