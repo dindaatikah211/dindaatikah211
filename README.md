@@ -6,7 +6,7 @@
 
 ## About Me
 
-A highly motivated and detail-oriented developer with a strong passion for continuous learning. I'm particularly interested in **Front-End Development**, **UI/UX Design**, **Graphic Design**, and **IoT-based Applications** — combining technical and creative skills to deliver high-quality, user-centered products.
+A highly motivated and detail-oriented developer with a strong passion for continuous learning. I'm particularly interested in **Front-End Development**, **UI/UX Design**, **Graphic Design**, and **IoT-based Applications**, combining technical and creative skills to deliver high-quality, user-centered products.
 
 For the past two years, I've been actively building in these fields through hands-on internship and project experience. I'm committed to collaboration and continuous growth, and I strive to contribute meaningfully to every project I join.
 
@@ -25,6 +25,7 @@ For the past two years, I've been actively building in these fields through hand
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Back-End & Database
@@ -43,6 +44,7 @@ For the past two years, I've been actively building in these fields through hand
 
 ### Libraries & State Management
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
 
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,8 +65,8 @@ For the past two years, I've been actively building in these fields through hand
 
 | | |
 |---|---|
-| **Portfolio** | [dindaatikah211.github.io/Portfolio-Dinda](https://dindaatikah211.github.io/Portfolio-Dinda/) |
-| **Email** | dindaatikahh@gmail.com |
+| **Portfolio** | [dinda-atikah-portfolio.vercel.app](https://dinda-atikah-portfolio.vercel.app) |
+| **Email** | [dindaatikahh@gmail.com](mailto:dindaatikahh@gmail.com) |
 | **LinkedIn** | [Dinda Atikah Ghaisani](https://www.linkedin.com/in/dinda-atikah-ghaisani-b9918a243/) |
 
 ---
