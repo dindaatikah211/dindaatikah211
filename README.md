@@ -6,9 +6,9 @@
 
 ## About Me
 
-A highly motivated and detail-oriented individual with a strong passion for continuous learning. I am particularly interested in **Front-End Development**, **UI/UX Design**, **Graphic Design**, and **IoT-based Applications** — combining technical and creative skills to deliver high-quality results.
+A highly motivated and detail-oriented developer with a strong passion for continuous learning. I'm particularly interested in **Front-End Development**, **UI/UX Design**, **Graphic Design**, and **IoT-based Applications** — combining technical and creative skills to deliver high-quality, user-centered products.
 
-I have been actively studying and building in these fields for about **two years**, with hands-on internship experience using modern full-stack and design tooling. Committed to collaboration and personal growth, I strive to contribute meaningfully to every project I join.
+For the past two years, I've been actively building in these fields through hands-on internship and project experience. I'm committed to collaboration and continuous growth, and I strive to contribute meaningfully to every project I join.
 
 ---
 
@@ -17,6 +17,7 @@ I have been actively studying and building in these fields for about **two years
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-00B388?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,17 +25,31 @@ I have been actively studying and building in these fields for about **two years
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Back-End & CMS
-![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### Back-End & Database
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### CMS & Storage
+![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
 ![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ### Libraries & State Management
-![TanStack](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Other Platforms
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
